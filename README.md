@@ -1,1 +1,1 @@
-# FATIGUE_analysis_PAPER
+# 🧠 Neurobehavioral Fatigue Assessment Model (NFAM)
