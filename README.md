@@ -11,7 +11,7 @@ The framework produces:
 -Behavioral archetypes
 -Individual-level explanations with recommendations
 
-🎯 Key Contributions
+🎯 Key Contributions:
 📐 Mathematical Modeling of neurobehavioral fatigue using:
 -Cognitive Fatigue Index (CFI)
 -Digital Overload Multiplier (DOM)
@@ -22,7 +22,7 @@ The framework produces:
 🔍 Explainable AI (LIME) for individual-level reasoning and prescriptive insights
 📊 Statistical Validation using regression, ANOVA, correlation analysis, and sensitivity testing
 
-🧠 NFAM Framework Components
+🧠 NFAM Framework Components:
 1️⃣ Cognitive Fatigue Index (CFI)
 -Quantifies attentional strain, distraction, screen exposure, study inconsistency, and sleep deprivation.
 2️⃣ Digital Overload Multiplier (DOM)
@@ -32,7 +32,7 @@ The framework produces:
 4️⃣ NFAM Composite Score
 -A weighted integration of CFI, DOM, and SEM that represents overall neurobehavioral fatigue risk.
 
-📁 Repository Structure
+📁 Repository Structure:
 📦 NFAM
  ┣ 📂 data
  ┃ ┣ Mental_Health_Survey_VIT_1000_FINAL.xlsx
@@ -48,7 +48,7 @@ The framework produces:
  ┣ README.md
  ┗ requirements.txt
 
-🧪 Methodology Summary
+🧪 Methodology Summary:
 -Survey-based Data Collection (academic, digital, sleep, lifestyle factors)
 -Data Cleaning & Normalization
 -Index Computation (CFI, DOM, SEM)
@@ -59,14 +59,14 @@ The framework produces:
 -Explainability via LIME
 -Statistical Validation (Regression, ANOVA, PCA)
 
-📊 Evaluation Metrics
+📊 Evaluation Metrics:
 -Accuracy & Cross-Validation Accuracy
 -Regression R² and significance testing
 -Silhouette score (clustering)
 -ANOVA p-values for risk separation
 -LIME feature contributions for explainability
 
-🔍 Explainability
+🔍 Explainability:
 The framework incorporates LIME (Local Interpretable Model-Agnostic Explanations) to:
 -Explain why an individual was assigned a risk level
 -Identify dominant fatigue contributors (risk vs protective factors)
