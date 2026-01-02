@@ -13,9 +13,9 @@ The framework produces:
 
 🎯 Key Contributions:
 📐 Mathematical Modeling of neurobehavioral fatigue using:
--Cognitive Fatigue Index (CFI)
--Digital Overload Multiplier (DOM)
--Sleep Efficiency Model (SEM)
+--Cognitive Fatigue Index (CFI)
+--Digital Overload Multiplier (DOM)
+--Sleep Efficiency Model (SEM)
 🧩 Unified Composite Risk Score (NFAM) with empirically validated weights
 🧠 Behavioral Archetype Discovery using clustering and PCA
 🤖 High-accuracy Predictive Models for fatigue risk classification
